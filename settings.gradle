@@ -1,0 +1,2 @@
+rootProject.name='Firebase Social Media App'
+include ':app'
